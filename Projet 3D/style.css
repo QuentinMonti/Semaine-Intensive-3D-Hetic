@@ -1,0 +1,22 @@
+#background {
+  background-color: black;
+  color: white;
+}
+
+#menu {
+  display: flex;
+  flex-direction: row;
+}
+
+#presentation {
+  position: absolute;
+  left: 30%;
+  right: 30%;
+  top: 60%;
+  display: flex;
+}
+
+#upper {
+  padding-left: 0.7%;
+  font-weight: bold;
+}
